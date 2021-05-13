@@ -1,0 +1,13 @@
+baseURL = "http://crossxcell99.github.io/"
+languageCode = "en-us"
+title = "crossxcell99"
+theme = "cactus"
+
+[params]
+  description = "“For still there are so many things that I have never seen: in every wood in every spring there is a different green. I sit beside the fire and think of people long ago, and people who will see a world that I shall never know.” - TLOTR"
+  mainSection = "posts"
+  showAllPostsOnHomePage = false
+  postsOnHomePage = 5
+  tagsOverview = true
+  showProjectsList = true
+  projectsUrl = "https://github.com/crossxcell99"

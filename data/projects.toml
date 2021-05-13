@@ -1,0 +1,4 @@
+[[list]]
+  name = "dtsel"
+  url = "https://github.com/crossxcell99/dtsel"
+  desc = "A simple datetime selector using pure javascript"
