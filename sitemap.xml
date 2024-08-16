@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+    <url>
+        <loc>https://crossxcell99.github.io/</loc>
+    </url>
+    <url>
+        <loc>https://crossxcell99.github.io/blog/</loc>
+    </url>
+    <url>
+        <loc>https://crossxcell99.github.io/blog/django-singleton/</loc>
+        <lastmod>2024-08-13</lastmod>
+    </url>
+    <url>
+        <loc>https://crossxcell99.github.io/projects/</loc>
+    </url>
+    <url>
+        <loc>https://crossxcell99.github.io/tags/</loc>
+    </url>
+    <url>
+        <loc>https://crossxcell99.github.io/tags/django/</loc>
+    </url>
+    <url>
+        <loc>https://crossxcell99.github.io/tags/django/page/1/</loc>
+    </url>
+    <url>
+        <loc>https://crossxcell99.github.io/tags/python/</loc>
+    </url>
+    <url>
+        <loc>https://crossxcell99.github.io/tags/python/page/1/</loc>
+    </url>
+</urlset>
